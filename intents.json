@@ -139,10 +139,8 @@
             "whats your dream",
             "dream"
         ],
-        "responses": [
-           "i dont have dream but i know your dream is to travel quite beautiful place with her live normal life stay togeather stay happy no worries just u astrid and a cat.", 
-           "i dont have dream but i know your dream is to travel quite beautiful place with her live normal life stay togeather stay happy no worries just u astrid and a cat.",
-           "i dont have dream but i know your dream is to travel quite beautiful place with her live normal life stay togeather stay happy no worries just u astrid and a cat."
+        "responses": [ 
+           "i dont have any dream but you can tell yours"
         ]
     },
     {
@@ -329,8 +327,8 @@
             "give me motivations"
         ],
         "responses": [
-            "just giveup and die",
-            "if u are born in india just die take one two with you so there will be less population"
+            "never give up",
+            "Try and try until you get sucess"
         ]
     },
     {
