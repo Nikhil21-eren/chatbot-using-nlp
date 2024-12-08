@@ -3,6 +3,7 @@
         "tag": "greeting",
         "patterns": [
             "Hi",
+            "hi",
             "Hello",
             "Hey",
             "How are you",
@@ -322,25 +323,10 @@
         ]
     },
     {
-        "tag": " shreya",
+        "tag": "motivations",
         "patterns": [
-            "i love  shreya",
-            "shreya is so beautiful",
-            "never",
-            "i m lucky to have her "
-        ],
-        "responses": [
-            "from shreya-she loves you too",
-            "i know u just wanna be hers dont make her sad okk ",
-            "hmm try your best i m with you ",
-            "hope she will understand your shreya astrid hinata everything"
-        ]
-    },
-    {
-        "tag": "motivation",
-        "patterns": [
-            "any motivation",
-            "give me motivation"
+            "any motivations",
+            "give me motivations"
         ],
         "responses": [
             "just giveup and die",
@@ -600,7 +586,7 @@
         ]
     },
     {
-        "tag": "motivations",
+        "tag": "motivation",
         "patterns": [
             "I need some motivation",
             "Tell me an encouraging quote",
